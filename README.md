@@ -15,7 +15,7 @@ Features:
 👤 User profile modal to save player name
 🏆 Leaderboard system to showcase top players
 📜 Instructions page for quick learning
-🎨 Futuristic animated UI with gradient effects & glowing particles
+ 🎨 Futuristic animated UI with gradient effects & glowing particles
 📡 Contact form with notification system
 
 ⚙️ Tech Stack:
@@ -25,7 +25,7 @@ Database - MYSQL |
 IDE - Visual Studio 2019 and Google Chrome/Microsoft Edge.
 
 🚀 How to Run the Project:
--Clone the repository-
+-Clone the repository:
  git clone https://github.com/KrithikaK182/FunFinity.git
 -Open the folder and double-click funfinity_gaming_hub.html
 -The project will run directly in your browser.

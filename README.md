@@ -34,7 +34,7 @@ SCREENSHOTS:
 <img width="1919" height="888" alt="Image" src="https://github.com/user-attachments/assets/3278679e-3d09-4fb6-b4de-73a0354703a0" />
 
 [Leaderboard] 
-
+<img width="1917" height="908" alt="Image" src="https://github.com/user-attachments/assets/e988b2ba-d3be-42c0-b542-52217d17f77e" />
 
 [Contact Page] 
 

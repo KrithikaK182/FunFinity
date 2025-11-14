@@ -38,5 +38,7 @@ Web Screenshots:
 [Contact Page] 
 <img width="1919" height="894" alt="Image" src="https://github.com/user-attachments/assets/84b4d0ba-fcd4-4901-aaaf-c7e57076f8b4" />
 
+Run the Project:
+git clone https://github.com/KrithikaK182/Gaming Hub
 
 

@@ -37,6 +37,7 @@ SCREENSHOTS:
 <img width="1917" height="908" alt="Image" src="https://github.com/user-attachments/assets/e988b2ba-d3be-42c0-b542-52217d17f77e" />
 
 [Contact Page] 
+<img width="1919" height="894" alt="Image" src="https://github.com/user-attachments/assets/84b4d0ba-fcd4-4901-aaaf-c7e57076f8b4" />
 
 
 

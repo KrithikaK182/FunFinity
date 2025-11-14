@@ -40,15 +40,13 @@ Project Architecture:
 * Glassmorphism Components for cards and game areas
 
 What I Learned---->
--DOM manipulation and event-driven JavaScript
--Game development logic
--Creating reusable UI components
--Improving UX through animations and transitions
--Writing modular and scalable code without frameworks
+DOM manipulation and event-driven JavaScript | Game development logic | Creating reusable UI components | Improving UX through animations and transitions | Writing modular and scalable code without frameworks
 
 📬 Contact:
 LinkedIn: https://www.linkedin.com/in/krithika-k-12643a319/
+
 Email: krithika.work18@gmail.com
+
 GitHub: https://github.com/KrithikaK182
 
 Web Screenshots:
